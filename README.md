@@ -10,19 +10,15 @@
 
 <br/>
 
-## Many Contributors. One Project Reality.
+## Shared Project Reality
 
-Complex projects are no longer necessarily built by one person or one fixed team.
+Complex projects distribute knowledge, decisions, and execution across people, tools, and AI. Orylo keeps those contributors aligned around one persistent understanding of the project — what is being built, what is currently valid, and where each contribution belongs.
 
-Knowledge, decisions, and execution may be distributed across specialists, tools, and AI systems.
+<div align="center">
 
-But the project itself still needs **one shared reality**.
+<img src="./assets/shared-project-reality.svg" alt="Humans and AI aligned around a shared project reality leading to coherent delivery" width="100%">
 
-Every contributor needs to understand what is being built, which decisions are currently valid, what state the project is in, what remains unresolved, and where their work belongs in the larger whole.
-
-Orylo is designed to preserve that coherence.
-
-> **Many contributors. One shared project reality.**
+</div>
 
 <br/>
 
@@ -30,13 +26,9 @@ Orylo is designed to preserve that coherence.
 
 Orylo does not treat a project as a collection of tasks.
 
-A project is an interconnected system of:
+A project is an interconnected system of **intent, knowledge, decisions, product structure, responsibility, execution, evidence, and delivery**. When those elements become disconnected, even technically strong execution can drift away from the product that was meant to be built.
 
-**Intent · Knowledge · Decisions · Product Structure · Responsibilities · Execution · Evidence · Delivery**
-
-When these elements become disconnected, even technically competent execution can gradually drift away from the product that was originally meant to be built.
-
-Orylo brings them into one governed environment so a project can remain **coherent, controlled, and traceable** from its earliest definition through real delivery.
+Orylo brings them into one governed environment so the project can remain **coherent, controlled, and traceable** as it moves from definition into real delivery.
 
 <br/>
 
@@ -44,46 +36,54 @@ Orylo brings them into one governed environment so a project can remain **cohere
 
 | Capability | What it enables |
 |---|---|
-| **Shared Project Intelligence** | Project knowledge and decisions are not trapped inside one person, one session, or one AI system. The project maintains a shared and persistent understanding of itself. |
-| **Structured Product Delivery** | A project moves from understanding and definition into product structure, architecture, and execution instead of jumping directly from idea to tasks and code. |
-| **Human–AI Collaboration** | Humans and AI can contribute to the same project across different responsibilities without making authority or accountability ambiguous. |
-| **Governed Execution** | Work is not only completed; it remains aligned with the valid project state, responsibility boundaries, and approved direction. |
-| **Continuous Knowledge** | Changing a team member, AI agent, tool, or session does not require reconstructing the project from memory. |
-| **Traceable Delivery** | Decisions, changes, implementation, validation, and delivered outcomes can remain connected throughout the project lifecycle. |
+| **Shared Project Intelligence** | A persistent understanding of the project that survives individual people, sessions, tools, and AI systems. |
+| **Structured Product Delivery** | A deliberate path from project understanding into product structure, architecture, execution, and delivery. |
+| **Human–AI Collaboration** | Humans and AI contributing to the same project without making responsibility or authority ambiguous. |
+| **Governed Execution** | Work that stays aligned with valid project state, defined responsibility, and approved direction. |
+| **Continuous Knowledge** | Project understanding that does not need to be reconstructed when contributors or tools change. |
+| **Traceable Delivery** | Decisions, changes, implementation, validation, evidence, and outcomes remaining connected over time. |
 
 <br/>
 
 # From Intent to Delivery
 
-Every project begins before code:
+Every project begins before code: with **a need, a problem, an idea, or a human intent**.
 
-**a need, a problem, an idea, or a human intent.**
+Orylo helps that intent become progressively clearer, more structured, and more executable.
 
-Orylo helps that intent become progressively more explicit, structured, and executable.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-The current Orylo product model organizes this journey into three major domains:
+### Define
 
-## Define
+Understand the project.
 
-Where the project is understood and defined.
+Clarify the problem, goals, constraints, needs, and project identity until reliable downstream decisions can be made.
 
-Needs, problems, constraints, goals, and project identity are brought to a level of clarity that can support reliable downstream decisions.
+</td>
+<td width="33%" valign="top">
 
-## Map
+### Map
 
-Where project definition becomes a coherent model of the product and system.
+Shape the product and system.
 
-Experience, structure, relationships, and architecture are considered together so what is being built can be understood and reviewed before heavy execution begins.
+Bring experience, structure, relationships, and architecture into one coherent model before heavy execution begins.
 
-## Build
+</td>
+<td width="33%" valign="top">
 
-Where an approved definition and product map become real execution.
+### Build
 
-Planning, responsibility, implementation, validation, evidence, and delivery become part of one controlled delivery flow.
+Execute with intent.
+
+Turn approved understanding into planning, implementation, validation, evidence, and delivery.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-### Define → Map → Build
 
 **Understand first. Structure second. Execute with intent.**
 
@@ -91,181 +91,69 @@ Planning, responsibility, implementation, validation, evidence, and delivery bec
 
 <br/>
 
-# Shared Project Intelligence
-
-One of Orylo's foundational capabilities is making **project knowledge independent from the memory of individual contributors**.
-
-If a person leaves the project,  
-if an AI agent changes,  
-if a session ends,  
-or if an execution tool is replaced,
-
-the project should not lose its understanding of itself.
-
-Orylo is designed to preserve definitions, decisions, and project state in a durable structure so the next contributor does not have to reconstruct the project from scattered context.
-
-This becomes especially important in projects where different humans and AI systems enter and leave the work over time.
-
-<br/>
-
 # Human + AI Collaboration
 
-Orylo is designed for environments where both humans and AI can participate in real project work.
+Orylo is designed for environments where humans and AI can both participate in real project work.
 
-AI may contribute to research, analysis, design, documentation, implementation, review, and other project activities.
-
-Effective collaboration, however, depends on maintaining one important distinction:
+AI may contribute to research, analysis, design, documentation, implementation, review, and other activities. But contribution and authority remain distinct.
 
 > **Execution capability is not the same as decision authority.**
 
-In Orylo, the ability to perform a task does not automatically imply ownership of the decision behind that task.
-
-Responsibility, scope, and authority can be defined independently from the type of contributor performing the work.
-
-A responsibility may be carried by a human in one project and by an AI worker in another.
-
-The project still retains control over who is contributing, within which boundaries, and with what level of authority.
+Responsibility, scope, and authority can be defined independently from the type of contributor performing the work. This allows different human and AI actors to collaborate without making project ownership or accountability ambiguous.
 
 <br/>
 
 # Governed Execution
 
-Many systems ask:
+Orylo is concerned with more than whether work was completed.
 
-> “Was the work completed?”
+<div align="center">
 
-Orylo asks a more precise question:
+**Right Work · Right Scope · Valid Project State · Explicit Authority**
 
-> **Was the right work completed, within the right boundaries, against the valid state of the project?**
+</div>
 
-This keeps execution connected to product meaning.
-
-Project changes should remain understandable in relation to existing decisions, definitions, responsibilities, and current project state.
-
-The goal is not simply faster execution.
-
-It is **more controlled, more reliable execution**.
+The goal is to keep execution connected to product meaning, current project truth, and defined responsibility — so speed does not come at the cost of coherence or control.
 
 <br/>
 
-# Traceability
+# Traceable, Evidence-Backed Delivery
 
-In complex projects, knowing what exists now is not always enough.
+A reliable project should be able to explain not only **what exists now**, but **why it arrived there**.
 
-Sometimes the more important question is:
+<div align="center">
 
-**Why did we arrive here?**
+<img src="./assets/traceable-delivery.svg" alt="Definition, decision, execution, validation and delivery connected through traceability and evidence" width="100%">
 
-Orylo is designed to preserve the relationship between decisions and outcomes.
+</div>
 
-A project should be able to follow the path from:
+Orylo is designed to preserve the relationship between decisions and outcomes, so project history can remain understandable rather than becoming only a sequence of disconnected changes.
 
-**Definition → Decision → Change → Execution → Validation → Outcome**
-
-This turns project history from a list of changes into a record that can also explain the logic behind those changes.
-
-<br/>
-
-# Evidence-Backed Delivery
-
-Orylo distinguishes between work that is claimed to be complete and work whose completion can be demonstrated.
-
-Reliable delivery requires more than a status label.
-
-It should be possible to show what was implemented, what was validated, and what result was produced.
-
-Evidence is therefore part of Orylo's delivery model.
-
-This becomes particularly important when part of the project is executed by AI.
-
-<br/>
-
-# Built for Multi-Actor Projects
-
-Orylo is designed for projects where work is distributed across multiple actors.
-
-These may include:
-
-**Project Owners**  
-**Product Architects**  
-**Designers**  
-**Developers**  
-**Technical Specialists**  
-**Reviewers**  
-**Clients**  
-**AI Workers**
-
-Orylo does not require every contributor to work in the same way.
-
-Instead, it provides a **shared project reality** around which different roles can collaborate.
+Delivery is therefore more than a status. The work, validation, and resulting outcome should remain connected strongly enough to support review, accountability, and evidence.
 
 <br/>
 
 # What Makes Orylo Different
 
-### Project knowledge survives the participants
+| Conventional project tooling often centers on | Orylo also preserves |
+|---|---|
+| Tasks and schedules | **Project knowledge and continuity** |
+| Assignment | **Responsibility, scope, and authority** |
+| Current status | **Decision and change traceability** |
+| Completion | **Validation and evidence** |
+| Individual tools or sessions | **A shared project reality across contributors** |
 
-The project retains its own memory and continuity.
-
-### Product understanding comes before execution
-
-Fast execution does not replace understanding the project.
-
-### Humans and AI share a system — not authority
-
-Shared participation does not mean equal authority.
-
-### Responsibility is explicit
-
-Work belongs to a defined responsibility, scope, and place in the project.
-
-### Change remains explainable
-
-The project can preserve why something changed, not only that it changed.
-
-### Delivery carries evidence
-
-A delivered result should be traceable to the work and validation that produced it.
-
-<br/>
-
-# From Project Management to Project Governance
-
-Project management commonly asks:
-
-> What work should be done, who should do it, and when?
-
-Orylo adds another layer:
-
-> **What is currently true about the project, and how do we keep execution aligned with that truth?**
-
-That distinction moves Orylo beyond task management or issue tracking.
-
-Alongside work, Orylo focuses on:
-
-**Knowledge · Authority · Decisions · Change · Evidence · Continuity**
+Orylo extends project management toward **project governance**: keeping execution aligned with what is currently true about the project.
 
 <br/>
 
 # A Platform for Governed Delivery
 
-Orylo is evolving as a platform that brings project workspace, product development flow, human–AI collaboration, governance, and traceability into one shared system.
+Orylo brings project workspace, product development flow, human–AI collaboration, governance, and traceability into one shared system.
 
-It is designed to support both new and existing projects — from the stage where the problem and product still need to be understood through real implementation and delivery.
+It is designed to support both new and existing projects — from the point where the problem and product still need to be understood through real implementation and delivery.
 
 > **Orylo keeps the project coherent while people, tools, decisions, and implementations change around it.**
-
-<br/>
-
-## Technology-Independent at the Product Level
-
-Orylo is not defined by a particular AI provider, model, IDE, or execution tool.
-
-Models, agents, and development environments can change.
-
-What Orylo preserves is the **structure of collaboration, project truth, responsibility, and delivery continuity**.
-
-This allows the product architecture to evolve with new generations of development and AI tooling without making Orylo dependent on one execution technology.
 
 <br/>
 
@@ -273,27 +161,26 @@ This allows the product architecture to evolve with new generations of developme
 
 **Active Product Development**
 
-Orylo is under active development. Its current generation is evolving from a documented operational framework into a dedicated **governed delivery workspace** with an independent product model.
+Orylo is under active development as a dedicated governed delivery workspace with an independent product model.
 
-Current development focuses on workspace experience, project flow, product mapping, governance, human–AI collaboration, and end-to-end delivery continuity.
+Current work focuses on workspace experience, project flow, product mapping, governance, human–AI collaboration, and end-to-end delivery continuity.
 
 <br/>
 
 <details>
-<summary><strong>Public Scope</strong></summary>
+<summary><strong>Technology, Public Scope & Proprietary Boundary</strong></summary>
 
 <br/>
 
-This public repository focuses on Orylo's:
+### Technology-Independent at the Product Level
 
-- Product vision
-- Problem and value
-- Core capabilities
-- Human–AI collaboration model
-- Structured delivery model
-- Governance concepts
-- Selected product architecture
-- Research and development direction
+Orylo is not defined by a particular AI provider, model, IDE, or execution tool.
+
+Models, agents, and development environments can change. Orylo preserves the structure of collaboration, project truth, responsibility, and delivery continuity across those changes.
+
+### Public Scope
+
+This repository presents Orylo's public product layer: product vision, problem and value, core capabilities, human–AI collaboration, structured delivery, governance concepts, and selected product architecture.
 
 Internal orchestration logic, execution contracts, schemas, routing logic, governance internals, guards, taxonomies, and other proprietary operating mechanisms remain private.
 
