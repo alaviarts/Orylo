@@ -14,11 +14,31 @@
 
 Complex projects distribute knowledge, decisions, and execution across people, tools, and AI. Orylo keeps those contributors aligned around one persistent understanding of the project — what is being built, what is currently valid, and where each contribution belongs.
 
-<div align="center">
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
 
-<img src="./assets/shared-project-reality.svg" alt="Humans and AI aligned around a shared project reality leading to coherent delivery" width="100%">
+**HUMANS + AI**
 
-</div>
+<sub>Contributors</sub>
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+**SHARED PROJECT REALITY**
+
+<sub>Knowledge · Decisions · State</sub>
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+**COHERENT DELIVERY**
+
+<sub>Controlled · Traceable</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -121,11 +141,25 @@ The goal is to keep execution connected to product meaning, current project trut
 
 A reliable project should be able to explain not only **what exists now**, but **why it arrived there**.
 
-<div align="center">
-
-<img src="./assets/traceable-delivery.svg" alt="Definition, decision, execution, validation and delivery connected through traceability and evidence" width="100%">
-
-</div>
+<table>
+<tr>
+<td align="center"><strong>DEFINE</strong></td>
+<td align="center"><strong>DECIDE</strong></td>
+<td align="center"><strong>EXECUTE</strong></td>
+<td align="center"><strong>VALIDATE</strong></td>
+<td align="center"><strong>DELIVER</strong></td>
+</tr>
+<tr>
+<td align="center">↓</td>
+<td align="center">↓</td>
+<td align="center">↓</td>
+<td align="center">↓</td>
+<td align="center">↓</td>
+</tr>
+<tr>
+<td colspan="5" align="center"><strong>TRACEABILITY · EVIDENCE</strong></td>
+</tr>
+</table>
 
 Orylo is designed to preserve the relationship between decisions and outcomes, so project history can remain understandable rather than becoming only a sequence of disconnected changes.
 
