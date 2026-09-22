@@ -1,18 +1,10 @@
 <div align="center">
 
-# ORYLO
+<img src="./assets/orylo-hero.svg" alt="Orylo — Governed Project Delivery for Human–AI Teams" width="100%">
 
-### Governed Project Delivery for Human–AI Teams
+<br/><br/>
 
-**A workspace for developing complex projects where humans and AI can contribute to one product without losing shared knowledge, responsibility, control, or project coherence.**
-
-<br/>
-
-<kbd>Project Intelligence</kbd>&nbsp;
-<kbd>Human–AI Collaboration</kbd>&nbsp;
-<kbd>Governed Delivery</kbd>&nbsp;
-<kbd>Traceability</kbd>&nbsp;
-<kbd>Product Architecture</kbd>
+**A governed workspace for keeping complex projects coherent across people, AI, decisions, execution, and delivery.**
 
 </div>
 
