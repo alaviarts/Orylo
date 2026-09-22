@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Orylo</title>
+  <desc id="desc">Governed Project Delivery for Human-AI Teams</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#151b23"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="70%">
+      <stop offset="0%" stop-color="#2f6f9f" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#2f6f9f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="27" fill="none" stroke="#30363d"/>
+
+  <text x="600" y="88" text-anchor="middle"
+        fill="#f0f6fc"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="54" font-weight="700" letter-spacing="8">ORYLO</text>
+
+  <text x="600" y="132" text-anchor="middle"
+        fill="#c9d1d9"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="21" font-weight="500">
+    Governed Project Delivery for Human–AI Teams
+  </text>
+
+  <g stroke="#6e7681" stroke-width="1.5" opacity="0.55">
+    <line x1="392" y1="221" x2="524" y2="221"/>
+    <line x1="676" y1="221" x2="808" y2="221"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">
+    <rect x="250" y="197" width="142" height="48" rx="24" fill="#161b22" stroke="#30363d"/>
+    <text x="321" y="226" text-anchor="middle" fill="#f0f6fc">DEFINE</text>
+
+    <rect x="524" y="197" width="152" height="48" rx="24" fill="#161b22" stroke="#30363d"/>
+    <text x="600" y="226" text-anchor="middle" fill="#f0f6fc">MAP</text>
+
+    <rect x="808" y="197" width="142" height="48" rx="24" fill="#161b22" stroke="#30363d"/>
+    <text x="879" y="226" text-anchor="middle" fill="#f0f6fc">BUILD</text>
+  </g>
+
+  <text x="600" y="286" text-anchor="middle"
+        fill="#8b949e"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="15" font-weight="600" letter-spacing="1.2">
+    MANY CONTRIBUTORS · ONE PROJECT REALITY
+  </text>
+</svg>
