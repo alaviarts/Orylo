@@ -202,6 +202,8 @@ Internal orchestration logic, execution contracts, schemas, routing logic, gover
 
 **© 2026 Ali Alavi. All rights reserved.**
 
+[Proprietary License](./LICENSE.md) · [IP Notice](./NOTICE.md)
+
 <br/>
 
 *Many contributors. One project reality.*
